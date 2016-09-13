@@ -6,4 +6,4 @@ Write a function that takes an array of numbers as a parameter, adds all the num
 
 ~~~php
 sum (array (1, 2, 3)); //Output: > 6
-~~~# summatory
+~~~
