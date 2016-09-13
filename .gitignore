@@ -1,3 +1,13 @@
 /.idea
 /composer.lock
 /vendor
+.idea/.name
+.idea/copyright/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/summatory.iml
+.idea/workspace.xml
+composer.lock
+src/
+vendor/
