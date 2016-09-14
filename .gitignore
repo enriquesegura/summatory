@@ -8,6 +8,4 @@
 .idea/modules.xml
 .idea/summatory.iml
 .idea/workspace.xml
-composer.lock
-src/
 vendor/
